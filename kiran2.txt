@@ -1,0 +1,2 @@
+>> This seems to be my second file added and staging is only done but commit is not done
+>> Validating byy adding second file before commiting
